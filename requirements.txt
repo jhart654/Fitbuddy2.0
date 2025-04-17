@@ -16,6 +16,7 @@ Jinja2
 Mako
 MarkupSafe
 marshmallow
+marshmallow-sqlalchemy
 psycopg2-binary
 python-dateutil
 python-dotenv
